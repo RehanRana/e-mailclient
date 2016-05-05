@@ -1,0 +1,1 @@
+This projects provides sending and recieving emails
